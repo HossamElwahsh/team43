@@ -1,16 +1,13 @@
-# team43
+# Team 43 - Microprocessors
+4th Year - Communications and Electronics Dept.  
+Faculty of Engineering - Alexandria University
 
-A new Flutter project.
+# Overview
+This repo contains flutter code for sending requests to an **ESP32**  
+These Requests are able to control 2 LEDs on **pin 15** and **pin 23** of the **ESP32**  
 
-## Getting Started
+_**ESP32** IP address can be changed at runtime using a given text input through the app_
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### <u>The ESP Wifi hotspot details:</u>
+- **SSID:** Team43
+- **Key:** HO$$@M43
