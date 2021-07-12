@@ -11,3 +11,5 @@ _**ESP32** IP address can be changed at runtime using a given text input through
 #### <u>The ESP Wifi hotspot details:</u>
 - **SSID:** Team43
 - **Key:** HO$$@M43
+
+*ESP default IP address is: 192.168.4.1*
